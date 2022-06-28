@@ -40,4 +40,5 @@ int main(void)
 		}
 	}
 	printf("%d\n", dist[n - 1][m - 1] + 1);
+	return (0);
 }
